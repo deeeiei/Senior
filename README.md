@@ -1,4 +1,4 @@
-# Capstone TurtleBot: Weld Seam Tracking Robot
+# Tankbot: Weld Seam Tracking Robot
 
 This repository contains the source code for my senior/capstone project, which focuses on developing a TurtleBot-based robotic system for weld seam tracking. The system uses sensor data processing and ROS 2 nodes to detect a simulated weld seam and control the robot motion along the target path.
 
