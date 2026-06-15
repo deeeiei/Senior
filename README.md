@@ -17,7 +17,7 @@ This project is part of my senior/capstone work and is intended to demonstrate t
 ## Before you setup, make sure you install urg_node2 from this link
 https://github.com/Hokuyo-aut/urg_node2
 
-## For visualization
+## For visualization and previous work on Tubtlebot
 https://github.com/KomkaninM/capstone_turtlebot
 
 ## Repository Structure
