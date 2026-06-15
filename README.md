@@ -14,6 +14,12 @@ This project is part of my senior/capstone work and is intended to demonstrate t
 - Motion control using velocity commands
 - Data logging for testing and analysis
 
+## Before you setup, make sure you install urg_node2 from this link
+https://github.com/Hokuyo-aut/urg_node2
+
+## For visualization
+https://github.com/KomkaninM/capstone_turtlebot
+
 ## Repository Structure
 
 ```text
